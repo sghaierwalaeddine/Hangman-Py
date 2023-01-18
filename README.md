@@ -9,7 +9,7 @@ The game is for 2 players, the first enters the word at the terminal, and the ot
 
 
 
-This was made in December 2020.
+This was made in December 2021.
 
 Copyright © 2021 All Rights Reserved
 
